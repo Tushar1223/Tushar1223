@@ -2,8 +2,8 @@
 <img align="right" alt="coding" width="1000" height="180" src="https://github.com/Tushar1223/Tushar1223/blob/main/TO%20MY%20GITHUB%20ACCOUNT.jpg">
 </div>
 <h1 align="center">Hi 👋, I'm Tushar Sharma</h1>
-<h3 align="center">A passionate full stack web developer, blockchain developer and coding enthusiast.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"><br><br><br><br>
+<h3 align="center">A passionate full stack web developer, blockchain developer and coding enthusiast.</h3><br>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 - 🌱 I’m currently learning **Web3.js**
 
 - 💬 Ask me about **M.E.R.N. and solidity**
