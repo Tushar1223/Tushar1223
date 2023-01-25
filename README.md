@@ -27,7 +27,5 @@
 <br><br><br>
 <h3 align="left">Github stats: </h3>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tushar1223&show_icons=true&locale=en" alt="Tushar1223" /></p> 
-
-<h3 align="left">Github streak</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar1223&" alt="Tushar1223" /></p>
+<br><br><br>
 
