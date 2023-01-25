@@ -25,7 +25,7 @@
 <br><h3 align="left">Languages used in project: </h3> 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Tushar1223&show_icons=true&locale=en&layout=compact" alt="Tushar1223" /></p> 
 <br><br><br>
-<h3 align="left">Github stats: </h3>
+<br><h3 align="left">Github stats: </h3>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tushar1223&show_icons=true&locale=en" alt="Tushar1223" /></p> 
 <br><br><br>
 
