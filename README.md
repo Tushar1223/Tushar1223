@@ -1,22 +1,22 @@
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQGKRXH38HRRmQ/profile-displaybackgroundimage-shrink_350_1400/0/1718803043900?e=1747267200&v=beta&t=OimFi2on4xLq3hersY2m3s-zp8D3yHupKLJ54tz72sM" width="100%" height="200">
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQGKRXH38HRRmQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718803043900?e=1747267200&v=beta&t=OimFi2on4xLq3hersY2m3s-zp8D3yHupKLJ54tz72sM" width="100%" height="200">
 </div>
 
 <h2 align="center">🚀 Hi, I'm Tushar Sharma! 🚀</h2>
 
 <p align="center">
-  <b>Full-Stack Developer | Software Engineer | Problem Solver</b>  
+  <b>CSE '25, IIIT Bhagalpur | Full-Stack Developer | Software Engineer | Problem Solver</b>  
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
 
-- 🔥 Passionate **Software Developer** with expertise in **MERN Stack, Next.js, and System Design**.  
+- 🔥 Passionate **Software Developer** with expertise in **MERN Stack, Next.js, and Data Structures and Algorithms**.  
 - 💡 I specialize in **high-performance web applications**, optimized UI/UX, and **scalable backend solutions**.  
 - 🎯 Strong problem-solving skills with **500+ DSA problems solved** across LeetCode, GFG, and CodeStudio.  
-- 📌 **Currently working with:** **React.js, Next.js, Node.js, Express.js, MongoDB, SQL, Redis, Docker, AWS.**  
-- 🚀 Building **scalable applications** and optimizing performance through **SSR, caching, and database tuning**.  
+- 📌 **Currently working with:** **React.js, Next.js, Node.js, Express.js, MongoDB, SQL, GraphQL and Docker.**  
+- 🚀 Building **scalable applications** and optimizing performance through **SSR, caching, and database optimizations**.  
 - ⚡ **Fun Fact:** I believe **clean code is poetry** and **debugging is an art!** 🎨  
 
 ---
@@ -37,22 +37,29 @@
 
 ### 🚀 Tech Stack & Tools  
 
+**Programming Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+
 **Frontend:**  
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend:**  
+**Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -89,19 +96,18 @@
 - 🥈 **2nd Place in 36-Hour Hackathon** – Built an innovative **AI-powered platform** for business automation.  
 - 🏆 **Adobe GenSolve Top 5%** – Excelled in problem-solving and full-stack development challenges.  
 - 🔥 **500+ DSA Problems Solved** – Across **LeetCode, GFG, and CodeStudio**.  
-- 🌍 **1000+ Students Use My Student Portal** – Developed a **real-world student management system** during my internship.  
 
 ---
 
 ### 📌 My Resume  
 
-📂 **[Download My Resume](https://drive.google.com/file/d/1RvWX30i7rk51VHMQbFy27rDI5h0nWsoF/view?usp=sharing)**  
+📂 **[Download My Resume](https://drive.google.com/file/d/1EYL_Qo-zpnpn_DIHIllcNHBEzOdEv5Bn/view?usp=sharing)**  
 
 ---
 
 ### 🎯 What's Next?  
 
-I'm **actively looking for exciting opportunities** in **Software Development, Full-Stack Engineering, and System Design**.  
+I'm **actively looking for exciting opportunities** in **Software Development, Full-Stack Development**.  
 If you're hiring or have a **great collaboration idea**, feel free to **reach out!** 🚀  
 
 ---
