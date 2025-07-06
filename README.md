@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQGKRXH38HRRmQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718803043900?e=1747267200&v=beta&t=OimFi2on4xLq3hersY2m3s-zp8D3yHupKLJ54tz72sM" width="100%" height="200">
+    <img src="https://res.cloudinary.com/dcbqek8r0/image/upload/fl_preserve_transparency/v1751801451/1718803043900_k0b8im.jpg" width="100%" height="200">
 </div>
 
 <h2 align="center">🚀 Hi, I'm Tushar Sharma! 🚀</h2>
@@ -43,6 +43,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 **Frontend:**  
@@ -57,6 +58,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -101,7 +105,7 @@
 
 ### 📌 My Resume  
 
-📂 **[Download My Resume](https://drive.google.com/file/d/1EYL_Qo-zpnpn_DIHIllcNHBEzOdEv5Bn/view?usp=sharing)**  
+📂 **[Download My Resume](https://drive.google.com/file/d/1a7ZY8BrcaaNISOLA_MvY230LUgfegdtN/view?usp=sharing)**  
 
 ---
 
